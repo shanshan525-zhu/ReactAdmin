@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # ReactAdmin
 React后台管理系统
 =======
@@ -631,3 +632,7 @@ React后台管理系统
         c. 解决: 使用自定义中间件去读取返回index页面展现
     
 >>>>>>> init app
+=======
+# ReactAdmin
+React后台管理系统
+>>>>>>> f9ec46941eaab1f1547ac5e732ec5ff6846f9a52
